@@ -1,7 +1,7 @@
 # 👋 Wellcome !
 [welcome!!](https://www.facebook.com/romantic.lover26) this is MD Sirajul Islam or [Basic hacker](https://www.youtube.com/channel/UCBVJrEUuLJqiyzh1kx1OOUA)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F90355&size=27&lines=MD-SIRAJUL-ISLAM;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F90355&size=27&lines=𝓜𝓓-𝓢𝓘𝓡𝓐𝓙𝓤𝓛-𝓘𝓢𝓛𝓐𝓜;+𝕚𝕋'𝕊+ℕ𝕠𝕥+𝕁𝕦𝕤𝕥+𝕄𝕪+ℕ𝕒𝕞𝕖;★彡[ɪᴛ'ꜱ+ᴀ+ʙʀᴀɴᴅ]彡★)](https://git.io/typing-svg)
  
 
  
