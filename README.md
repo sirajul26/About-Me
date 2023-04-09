@@ -26,12 +26,10 @@
 ```
 ### Visit Now👉👉 [![](https://img.shields.io/github/followers/sirajul26?style=social)](https://github.com/sirajul26?tab=repositories)
 
-#### RUN SCRIPT
-```shell
-★  cd AUTO-SHEAR
- 
-★  python auto-shear.py
-```
+#### channel name
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=10&pause=10&color=F70C22&background=000000&center=true&vCenter=true&width=250&lines=Basic+Hacker)](https://git.io/typing-svg)
+
 #### About
 ```shell
 Basic Hacker
